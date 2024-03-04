@@ -2,8 +2,8 @@
 
 This program was created as a final project for a trimester-long Data Science class at Woodberry Forest School.    
 
-**SBDBanalysis.ipynb** - main file of the program
-**bib.txt** - used sources
+**SBDBanalysis.ipynb** - main file of the program  
+**bib.txt** - used sources  
 In order to run the program, **.env** file must be created and contain the API key under the variable named *NASA_KEY*.    
 
 
