@@ -1,0 +1,4 @@
+Sources:
+
+NASA Small-Body Database API documentation: https://ssd-api.jpl.nasa.gov/doc/sbdb_query.html
+ChatGPT: https://chat.openai.com/share/c7507722-62fa-4d47-a50d-f5f6cf305306
